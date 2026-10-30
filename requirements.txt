@@ -1,0 +1,13 @@
+miniaudio>=1.61
+demucs-onnx>=0.3.3
+librosa>=1.0.0
+soundfile>=0.14.0
+pyguitarpro>=0.11
+music21>=10.5.1
+PySide6>=6.12.0
+pyqtgraph>=0.13.0
+numpy>=1.24.0
+scipy>=1.10.0
+torch>=2.0.0
+torchaudio>=2.0.0
+muscriptor @ git+https://github.com/muscriptor/muscriptor.git
